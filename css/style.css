@@ -24,6 +24,7 @@ header {
     justify-content: space-between;
     padding: 80px 80px 5px 80px;
     background-color: white;
+    position: relative;
 }
 
 .block {
@@ -69,4 +70,22 @@ h2 {
 .skills__ide {
     padding-left: 100px;
     padding-right: 100px;
+}
+
+@media (max-width: 768px) {
+    header {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .skill__flex {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+    }
+    .skills__web {
+        padding-left: 0px;
+    }
+    .skills__ide {
+        padding-left: 0px;
+    }
 }
