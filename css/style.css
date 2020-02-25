@@ -76,6 +76,10 @@ h2 {
     header {
         display: flex;
         flex-direction: column-reverse;
+        padding: 10px 10px 5px 10px;
+    }
+    .block {
+        padding: 5px 10px;
     }
     .skill__flex {
         display: flex;
