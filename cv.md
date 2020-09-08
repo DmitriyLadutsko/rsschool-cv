@@ -16,10 +16,14 @@ Active life position focused on achieving results; organized, mobile; presentabl
  - Process modeling notations (DFD, Flowchart, EPC, IDEF0)
  - Model requirements in UML and BPMN
  - Prototyping
-#### __Front-End Technologies:__ 
+#### __Technologies:__ 
 *__Basic knowledge in:__*
  - HTML5 
  - CSS3
+ - SQL
+#### __Programming languages:__
+- Java Script
+- Java Core
 #### __Web Solutions:__
  - GitHub
  - Jira
@@ -31,6 +35,7 @@ Active life position focused on achieving results; organized, mobile; presentabl
  - Adobe XD
 #### __IDE:__
  - Visual Studio Code 
+ - Intellij IDEA
 #### __VCS:__
  - Git
 #### __Language:__
@@ -48,10 +53,13 @@ Active life position focused on achieving results; organized, mobile; presentabl
  - Holding presentation 
 
 ## EDUCATION
-Pediatric faculty, 2000 - 2007 <br>
+**Pediatric faculty**, 2000 - 2007 <br>
 Belarusian State Medical University, Minsk, Belarus <br><br>
 
-Business analysis for IT, 2019
+**Business analysis for IT**, 2019 <br>
 Educational Center for Programming and High Tech (IT-Academy), Gomel <br>
 _Description:_ BA basics, Requirements’ elicitation, and analysis, Modeling and Prototyping, Requirement specification
 
+**Java Web Development**, 2020 <br>
+External traning by EPAM Systems, Gomel <br>
+_Description:_ Detailed study of the basics of Java programming, learning all the elements and constructions of the language with a bias towards web application development
